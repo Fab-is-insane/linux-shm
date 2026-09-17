@@ -1,4 +1,4 @@
-# Linux System Health Monitor (Beginner-Friendly)
+# Linux System Health Monitor
 
 ## Objective
 A simple, terminal-based Python program to help beginners explore basic Linux system information and resources: CPU, memory, disk, processes, network, running services, file permissions, and a basic health report. Designed for an "Introduction to Linux" course.
